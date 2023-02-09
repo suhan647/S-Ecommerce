@@ -1,0 +1,28 @@
+let data = [
+    {url:'https://images.unsplash.com/photo-1624835567150-0c530a20d8cc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1lbnMlMjBzaGlydHxlbnwwfHwwfHw%3D&w=1000&q=80',
+     name:'name',
+    price:'200',
+rating:'5star'     },
+{url:'https://images.unsplash.com/photo-1624835567150-0c530a20d8cc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1lbnMlMjBzaGlydHxlbnwwfHwwfHw%3D&w=1000&q=80',
+name:'name',
+price:'200',
+rating:'5star'     },
+{url:'https://images.unsplash.com/photo-1624835567150-0c530a20d8cc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1lbnMlMjBzaGlydHxlbnwwfHwwfHw%3D&w=1000&q=80',
+name:'name',
+price:'200',
+rating:'5star'     },
+{url:'https://images.unsplash.com/photo-1624835567150-0c530a20d8cc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1lbnMlMjBzaGlydHxlbnwwfHwwfHw%3D&w=1000&q=80',
+name:'name',
+price:'200',
+rating:'5star'     },
+{url:'https://images.unsplash.com/photo-1624835567150-0c530a20d8cc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1lbnMlMjBzaGlydHxlbnwwfHwwfHw%3D&w=1000&q=80',
+name:'name',
+price:'200',
+rating:'5star'     },
+{url:'https://images.unsplash.com/photo-1624835567150-0c530a20d8cc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1lbnMlMjBzaGlydHxlbnwwfHwwfHw%3D&w=1000&q=80',
+name:'name',
+price:'200',
+rating:'5star'     },
+]
+
+export default data;
