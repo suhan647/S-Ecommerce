@@ -145,7 +145,7 @@ function Header(props) {
                                         </Box> 
                                      </Box>
 
-                            <Box className='icons link  link_container' sx={{ display: 'flex', flexDirection: 'column', justifyContent: 'flex-end', alignItems: 'center', mr:'20%'}}>
+                            <Box className='icons link  link_container' sx={{ display: 'flex', flexDirection: 'column', justifyContent: 'flex-end', alignItems: 'center', mr:'22%'}}>
                                 <StyledBadge badgeContent={cartCount.length} color="secondary" sx={{}}>
                                 <NavLink to='/cart' className='link'>  <LocalMallOutlinedIcon /> </NavLink>
                                 </StyledBadge>
